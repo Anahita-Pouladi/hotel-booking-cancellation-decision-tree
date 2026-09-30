@@ -60,6 +60,22 @@ The dataset contains reservation details such as:
 -   Special requests
 -   Market and distribution information
 
+
+------------------------------------------------------------------------
+
+## Dataset Attribution and License
+
+This project uses the **Hotel Booking Demand** dataset published on Kaggle by **Jesse Mostipak**.
+
+- **Dataset:** Hotel Booking Demand
+- **Source:** [Kaggle — Hotel Booking Demand](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
+- **Dataset license:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+- **Original research:** *Hotel Booking Demand Datasets* by Nuno Antonio, Ana Almeida, and Luis Nunes, published in *Data in Brief* (2019)
+
+The raw dataset is **not included in this repository**. It must be obtained from its original source and remains subject to the **CC BY 4.0** license.
+
+The repository's **MIT License applies only to the project code and documentation created for this portfolio project**; it does not replace or modify the dataset's original license.
+
 ------------------------------------------------------------------------
 
 ## Project Workflow
