@@ -1,5 +1,12 @@
 # Hotel Booking Cancellation Prediction with Explainable Machine Learning
 
+## Project Links
+
+- **GitHub Repository:** [hotel-booking-cancellation-decision-tree](https://github.com/Anahita-Pouladi/hotel-booking-cancellation-decision-tree)
+- **Kaggle Notebook:** [Hotel Booking Cancellation Prediction | Decision Tree](https://www.kaggle.com/code/anahitapouladi/hotel-booking-cancellation-decision-tree)
+
+-------------------------------------------------------------------------
+
 ## Project Overview
 
 Hotel booking cancellations create operational challenges for
